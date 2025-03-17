@@ -1,6 +1,6 @@
 # Catzies
 
-Insert a photo here
+![Catzies Demo Picture](./images/demo.png)
 
 - [Catzies](#catzies)
   - [About](#about)
