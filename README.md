@@ -15,7 +15,7 @@
 Catzies is a demo React application that allows users to play the game of Tenzies, but with a fun twist: instead of numbers, the dice feature cat faces. The objective of the game is to get all dice to show the same cat face. This project showcases the use of React for building interactive user interfaces and managing game state.
 
 ## Play Game
-Check out the live demo and [Play Catzies - Coming Soon](#).
+Check out the live demo and [Play Catzies](https://kathleenwest.github.io/catzies-react/).
 
 ## How to Play
 Catzies (Tenzies) is a simple and fun dice game. The objective is to get all dice to show the same cat face. Here’s how to play:
