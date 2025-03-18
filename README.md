@@ -48,7 +48,8 @@ The project structure is organized as follows:
 The main component, `App.jsx`, manages the state of the dice and handles the game logic. It uses the `Die.jsx` component to render each die. The `cats.js` file provides the data for the cat emojis displayed on the dice. The application also includes a sound effect that plays when the dice are rolled, which is imported from the `sounds/` directory.
 
 ## Demo Videos
-Watch the demo video on [YouTube](https://www.youtube.com/watch?v=0R20xf9SZQ0 "Catzies Demo Video")
+- Watch the funny marketing demo video on [YouTube](https://www.youtube.com/shorts/SmXuD14_zDE "Catzies Funny Marketing Demo Video")
+- Watch the demo video on [YouTube](https://www.youtube.com/watch?v=0R20xf9SZQ0 "Catzies Demo Video")
 
 ## Getting Started
 Install the dependencies and run the project
